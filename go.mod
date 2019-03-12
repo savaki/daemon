@@ -1,4 +1,4 @@
-module bitbucket.org/savaki/daemon
+module github.com/savaki/daemon
 
 go 1.12
 
